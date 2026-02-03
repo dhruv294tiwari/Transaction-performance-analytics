@@ -36,7 +36,7 @@ UPI transaction dataset with anonymized payment records including bank details, 
 ## Screenshots
 
 ### Page 1: Transaction Trends
-![Transaction Trends](Screenshot/Trends.png)
+![Transaction Trends](Screenshot/Trend.png)
 
 ### Page 2: Regional Analysis
 ![Regional Analysis](Screenshot/Region.png)
